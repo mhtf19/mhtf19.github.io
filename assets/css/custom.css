@@ -3,5 +3,6 @@ body{
   }
 header{
   background-color:black;
+  background-image:none;
   color:white;
 }
