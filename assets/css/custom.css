@@ -1,5 +1,5 @@
 body{
-  color: #334E68;
+  color: #FF8A50;
   
   background-image:none;
   background-color: #424242;
@@ -14,5 +14,7 @@ header{
 
 .nav-content{
   display:block;
+  background-color: #334E68;
+  color: #FF8A50;
 }
 
