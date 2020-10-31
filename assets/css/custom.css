@@ -11,3 +11,8 @@ header{
 h1{
   color:red;
 }
+
+.nav-content{
+  display:block;
+}
+
