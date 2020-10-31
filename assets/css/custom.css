@@ -1,11 +1,14 @@
 body{
   color: #334E68;
+  
   background-image:none;
   background-color: #424242;
+  font-family: 'Domine', serif;
   }
 header{
-  color:white;
+  color: #FF8A50;
   background-color: #424242;
+  font-family: 'Libre Baskerville', serif;
 }
 
 
