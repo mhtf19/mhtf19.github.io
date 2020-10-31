@@ -1,5 +1,7 @@
 body{
   color: red;
+  background-image:none;
+  background-color:green;
   }
 header{
   background-color:black;
