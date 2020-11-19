@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: World Health Organization is Promoting Playing Video Games During Covid19
 ---
 
