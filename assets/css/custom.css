@@ -10,6 +10,7 @@ header{
   background-image: url("https://mhtf19.github.io/assets/images/banner.jpg");
   background-color: #424242;
   background-size: 500px;
+  background-position: center;
   font-family: 'Libre Baskerville', serif;
 }
 
