@@ -12,6 +12,9 @@ header{
   background-size: 500px;
   background-position: center;
   font-family: 'Libre Baskerville', serif;
+  h1{
+    color: #FF8A50;
+  }
 }
 
 
