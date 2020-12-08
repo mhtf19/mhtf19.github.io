@@ -1,8 +1,8 @@
 body{
-  color: #02353C;
+  color: #449342;
   
   background-image:none;
-  background-color: #424242;
+  background-color: #02353C;
   font-family: 'Domine', serif;
   }
 header{
@@ -20,7 +20,7 @@ header{
 
 .nav-content{
   display:block;
-  background-color: #334E68;
-  color: #FF8A50;
+  background-color: #0A7B79;
+  color: #3FD0C9;
 }
 
