@@ -16,7 +16,7 @@ header{
 }
 
 .header h1{
-
+  color: #FF8A50;
 }
 
 .header p{
@@ -29,6 +29,7 @@ header{
   color: #3FD0C9;
 }
 nav ul a{
+  color:#FF8A50;
 }
 
 nav{
