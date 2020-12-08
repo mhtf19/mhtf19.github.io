@@ -12,16 +12,27 @@ header{
   background-size: 500px;
   background-position: center;
   font-family: 'Libre Baskerville', serif;
-  h1{
-    color: #FF8A50;
-  }
+  
 }
 
+.header h1{
+
+}
+
+.header p{
+  color: #FF8A50;
+}
 
 .nav-content{
   display:block;
   background-color: #0A7B79;
   color: #3FD0C9;
+}
+nav ul a{
+}
+
+nav{
+  top: inherit;
 }
 
 ul{
